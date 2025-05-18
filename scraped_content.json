@@ -1,0 +1,2743 @@
+{
+  "original_text": "https://en.wikipedia.org/wiki/Data_science",
+  "clean_text": "",
+  "links": {
+    "0": {
+      "link": "https://en.wikipedia.org/wiki/Data_science",
+      "original_position": 0,
+      "length": 42
+    }
+  },
+  "scraped_content": {
+    "0": {
+      "url": "https://en.wikipedia.org/wiki/Data_science",
+      "title": "Data science - Wikipedia",
+      "text_content": "Data science\n50 languages\nArticle\nTalk\nRead\nEdit\nView history\nTools\nAppearance hide\nText\nSmall\nStandard\nLarge\nWidth\nStandard\nWide\nColor (beta)\nAutomatic\nLight\nDark\nFrom Wikipedia, the free encyclopedia\nNot to be confused with information science or computer science.\nThe existence of Comet NEOWISE (here depicted as a series of red dots) was discovered by analyzing astronomical survey data acquired by a space telescope, the Wide-field Infrared Survey Explorer.\nData science is an interdisciplinary academic field[1] that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data.[2]\nData science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine).[3] Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.[4]\nData science is \"a concept to unify statistics, data analysis, informatics, and their related methods\" to \"understand and analyze actual phenomena\" with data.[5] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[6] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a \"fourth paradigm\" of science (empirical, theoretical, computational, and now data-driven) and asserted that \"everything about science is changing because of the impact of information technology\" and the data deluge.[7][8]\nA data scientist is a professional who creates programming code and combines it with statistical knowledge to summarize data.[9]\nFoundations[edit]\nData science is an interdisciplinary field[10] focused on extracting knowledge from typically large data sets and applying the knowledge from that data to solve problems in other application domains. The field encompasses preparing data for analysis, formulating data science problems, analyzing data, and summarizing these findings. As such, it incorporates skills from computer science, mathematics, data visualization, graphic design, communication, and business.[11]\nVasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g., from images, text, sensors, transactions, customer information, etc.) and emphasizes prediction and action.[12] Andrew Gelman of Columbia University has described statistics as a non-essential part of data science.[13] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program. He describes data science as an applied field growing out of traditional statistics.[14]\nEtymology[edit]\nEarly usage[edit]\nIn 1962, John Tukey described a field he called \"data analysis\", which resembles modern data science.[14] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C. F. Jeff Wu used the term \"data science\" for the first time as an alternative name for statistics.[15] Later, attendees at a 1992 statistics symposium at the University of Montpellier  II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[16][17]\nThe term \"data science\" has been traced back to 1974, when Peter Naur proposed it as an alternative name to computer science.[6] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[6] However, the definition was still in flux. After the 1985 lecture at the Chinese Academy of Sciences in Beijing, in 1997 C. F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting or limited to describing data.[18] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[17]\nModern usage[edit]\nIn 2012, technologists Thomas H. Davenport and DJ Patil declared \"Data Scientist: The Sexiest Job of the 21st Century\",[19] a catchphrase that was picked up even by major-city newspapers like the New York Times[20] and the Boston Globe.[21] A decade later, they reaffirmed it, stating that \"the job is more in demand than ever with employers\".[22]\nThe modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[23] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[24]\nThe professional title of \"data scientist\" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[25] Though it was used by the National Science Board in their 2005 report \"Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century\", it referred broadly to any key role in managing a digital data collection.[26]\nData science and data analysis[edit]\nExample for the usefulness of exploratory data analysis as demonstrated using the Datasaurus dozen data set\nData science is at the intersection of mathematics, computer science and domain expertise.\nData analysis typically involves working with structured datasets to answer specific questions or solve specific problems. This can involve tasks such as data cleaning and data visualization to summarize data and develop hypotheses about relationships between variables. Data analysts typically use statistical methods to test these hypotheses and draw conclusions from the data.[27]\nData science involves working with larger datasets that often require advanced computational and statistical methods to analyze. Data scientists often work with unstructured data such as text or images and use machine learning algorithms to build predictive models. Data science often uses statistical analysis, data preprocessing, and supervised learning.[28][29]\nCloud computing for data science[edit]\nA cloud-based architecture for enabling big data analytics. Data flows from various sources, such as personal computers, laptops, and smart phones, through cloud services for processing and analysis, finally leading to various big data applications.\nCloud computing can offer access to large amounts of computational power and storage.[30] In big data, where volumes of information are continually generated and processed, these platforms can be used to handle complex and resource-intensive analytical tasks.[31]\nSome distributed computing frameworks are designed to handle big data workloads. These frameworks can enable data scientists to process and analyze large datasets in parallel, which can reduce processing times.[32]\nEthical consideration in data science[edit]\nData science involves collecting, processing, and analyzing data which often includes personal and sensitive information. Ethical concerns include potential privacy violations, bias perpetuation, and negative societal impacts.[33][34]\nMachine learning models can amplify existing biases present in training data, leading to discriminatory or unfair outcomes.[35][36]\nSee also[edit]\nPython (programming language)\nR (programming language)\nData engineering\nBig data\nMachine learning\nBioinformatics\nAstroinformatics\nTopological data analysis\nList of open-source data science software\nReferences[edit]\n^ Donoho, David (2017). \"50 Years of Data Science\". Journal of Computational and Graphical Statistics. 26 (4): 745–766. doi:10.1080/10618600.2017.1384734. S2CID 114558008.\n^ Dhar, V. (2013). \"Data science and prediction\". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147. Archived from the original on 9 November 2014. Retrieved 2 September 2015.\n^ Danyluk, A.; Leidig, P. (2021). Computing Competencies for Undergraduate Data Science Curricula (PDF). ACM Data Science Task Force Final Report (Report).\n^ Mike, Koby; Hazzan, Orit (20 January 2023). \"What is Data Science?\". Communications of the ACM. 66 (2): 12–13. doi:10.1145/3575663. ISSN 0001-0782.\n^ Hayashi, Chikio (1 January 1998). \"What is Data Science ? Fundamental Concepts and a Heuristic Example\". In Hayashi, Chikio; Yajima, Keiji; Bock, Hans-Hermann; Ohsumi, Noboru; Tanaka, Yutaka; Baba, Yasumasa (eds.). Data Science, Classification, and Related Methods. Studies in Classification, Data Analysis, and Knowledge Organization. Springer Japan. pp. 40–51. doi:10.1007/978-4-431-65950-1_3. ISBN 9784431702085.\n^\na b c Cao, Longbing (29 June 2017). \"Data Science: A Comprehensive Overview\". ACM Computing Surveys. 50 (3): 43:1–43:42. arXiv:2007.03606. doi:10.1145/3076253. ISSN 0360-0300. S2CID 207595944.\n^ Tony Hey; Stewart Tansley; Kristin Michele Tolle (2009). The Fourth Paradigm: Data-intensive Scientific Discovery. Microsoft Research. ISBN 978-0-9825442-0-4. Archived from the original on 20 March 2017.\n^ Bell, G.; Hey, T.; Szalay, A. (2009). \"Computer Science: Beyond the Data Deluge\". Science. 323 (5919): 1297–1298. doi:10.1126/science.1170411. ISSN 0036-8075. PMID 19265007. S2CID 9743327.\n^ Davenport, Thomas H.; Patil, D. J. (October 2012). \"Data Scientist: The Sexiest Job of the 21st Century\". Harvard Business Review. 90 (10): 70–76, 128. PMID 23074866. Retrieved 18 January 2016.\n^ Emmert-Streib, Frank; Dehmer, Matthias (2018). \"Defining data science by a data-driven quantification of the community\". Machine Learning and Knowledge Extraction. 1: 235–251. doi:10.3390/make1010015.\n^ \"1. Introduction: What Is Data Science?\". Doing Data Science [Book]. O’Reilly. Retrieved 3 April 2020.\n^ Vasant Dhar (1 December 2013). \"Data science and prediction\". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147.\n^ \"Statistics is the least important part of data science « Statistical Modeling, Causal Inference, and Social Science\". statmodeling.stat.columbia.edu. Retrieved 3 April 2020.\n^\na b Donoho, David (18 September 2015). \"50 years of Data Science\" (PDF). Retrieved 2 April 2020.\n^ Wu, C. F. Jeff (1986). \"Future directions of statistical research in China: a historical perspective\" (PDF). Application of Statistics and Management. 1: 1–7. Retrieved 29 November 2020.\n^ Escoufier, Yves; Hayashi, Chikio; Fichet, Bernard, eds. (1995). Data science and its applications. Tokyo: Academic Press/Harcourt Brace. ISBN 0-12-241770-4. OCLC 489990740.\n^\na b Murtagh, Fionn; Devlin, Keith (2018). \"The Development of Data Science: Implications for Education, Employment, Research, and the Data Revolution for Sustainable Development\". Big Data and Cognitive Computing. 2 (2): 14. doi:10.3390/bdcc2020014.\n^ Wu, C. F. Jeff. \"Statistics=Data Science?\" (PDF). Retrieved 2 April 2020.\n^ Davenport, Thomas (1 October 2012). \"Data Scientist: The Sexiest Job of the 21st Century\". Harvard Business Review. Retrieved 10 October 2022.\n^ Miller, Claire (4 April 2013). \"Data Science: The Numbers of Our Lives\". New York Times. New York City. Retrieved 10 October 2022.\n^ Borchers, Callum (11 November 2015). \"Behind the scenes of the 'sexiest job of the 21st century'\". Boston Globe. Boston. Retrieved 10 October 2022.\n^ Davenport, Thomas (15 July 2022). \"Is Data Scientist Still the Sexiest Job of the 21st Century?\". Harvard Business Review. Retrieved 10 October 2022.\n^ Gupta, Shanti (11 December 2015). \"William S. Cleveland\". Retrieved 2 April 2020.\n^ Talley, Jill (1 June 2016). \"ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science\". Amstat News. American Statistical Association.. In 2013 the first European Conference on Data Analysis (ECDA2013) started in Luxembourg the process which founded the European Association for Data Science (EuADS) www.euads.org in Luxembourg in 2015.\n^ Davenport, Thomas H.; Patil, D. J. (1 October 2012). \"Data Scientist: The Sexiest Job of the 21st Century\". Harvard Business Review. No. October 2012. ISSN 0017-8012. Retrieved 3 April 2020.\n^ \"US NSF – NSB-05-40, Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century\". www.nsf.gov. Retrieved 3 April 2020.\n^ James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert (29 September 2017). An Introduction to Statistical Learning: with Applications in R. Springer.\n^ Provost, Foster; Tom Fawcett (1 August 2013). \"Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking\". O'Reilly Media, Inc.\n^ Han, Kamber; Pei (2011). Data Mining: Concepts and Techniques. ISBN 9780123814791.\n^ Hashem, Ibrahim Abaker Targio; Yaqoob, Ibrar; Anuar, Nor Badrul; Mokhtar, Salimah; Gani, Abdullah; Ullah Khan, Samee (2015). \"The rise of \"big data\" on cloud computing: Review and open research issues\". Information Systems. 47: 98–115. doi:10.1016/j.is.2014.07.006.\n^ Qiu, Junfei; Wu, Qihui; Ding, Guoru; Xu, Yuhua; Feng, Shuo (2016). \"A survey of machine learning for big data processing\". EURASIP Journal on Advances in Signal Processing. 2016 (1). doi:10.1186/s13634-016-0355-x. ISSN 1687-6180.\n^ Armbrust, Michael; Xin, Reynold S.; Lian, Cheng; Huai, Yin; Liu, Davies; Bradley, Joseph K.; Meng, Xiangrui; Kaftan, Tomer; Franklin, Michael J.; Ghodsi, Ali; Zaharia, Matei (27 May 2015). \"Spark SQL: Relational Data Processing in Spark\". Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM. pp. 1383–1394. doi:10.1145/2723372.2742797. ISBN 978-1-4503-2758-9.\n^ Floridi, Luciano; Taddeo, Mariarosaria (28 December 2016). \"What is data ethics?\". Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 374 (2083): 20160360. Bibcode:2016RSPTA.37460360F. doi:10.1098/rsta.2016.0360. ISSN 1364-503X. PMC 5124072. PMID 28336805.\n^ Mittelstadt, Brent Daniel; Floridi, Luciano (2016). \"The Ethics of Big Data: Current and Foreseeable Issues in Biomedical Contexts\". Science and Engineering Ethics. 22 (2): 303–341. doi:10.1007/s11948-015-9652-2. ISSN 1353-3452. PMID 26002496.\n^ Barocas, Solon; Selbst, Andrew D (2016). \"Big Data's Disparate Impact\". California Law Review. doi:10.15779/Z38BG31 – via Berkeley Law Library Catalog.\n^ Caliskan, Aylin; Bryson, Joanna J.; Narayanan, Arvind (14 April 2017). \"Semantics derived automatically from language corpora contain human-like biases\". Science. 356 (6334): 183–186. arXiv:1608.07187. Bibcode:2017Sci...356..183C. doi:10.1126/science.aal4230. ISSN 0036-8075.\nhide\nvte\nData\nAcquisition Augmentation Analysis Anonymization Archaeology Big Cleansing Collection Compression Corruption Curation Deduplication Degradation De-identification Ecosystem Editing Engineering Erasure ETL/ELT Extract Transform Load Ethics Exhaust Exploration Farming Format management Fusion Governance Cooperatives Infrastructure Integration Integrity Library Lineage Loss Management Meta Migration Mining Philanthropy Pre-processing Preservation Processing Protection (privacy) Publishing Open data Recovery Reduction Redundancy Re-identification Remanence Rescue Retention Quality Science Scraping Scrubbing Security Sharing Stewardship Storage Structure Synchronization Topological data analysis Type Validation Warehouse Wrangling/munging\nCategories: Information scienceComputer occupationsComputational fields of studyData analysisData science",
+      "meta_description": "No meta description found",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#bodyContent",
+          "text": "Jump to content",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Main_Page",
+          "text": "No link text",
+          "title": "Visit the main page [alt-shift-z]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+          "text": "No link text",
+          "title": "Guides to browsing Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+          "text": "No link text",
+          "title": "Articles related to current events"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:Random",
+          "text": "No link text",
+          "title": "Visit a randomly selected article [alt-shift-x]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "text": "No link text",
+          "title": "Learn about Wikipedia and how it works"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "text": "No link text",
+          "title": "How to contact Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Help:Contents",
+          "text": "No link text",
+          "title": "Guidance on how to use and edit Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+          "text": "No link text",
+          "title": "Learn how to edit Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+          "text": "No link text",
+          "title": "The hub for editors"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+          "text": "No link text",
+          "title": "A list of recent changes to Wikipedia [alt-shift-r]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+          "text": "No link text",
+          "title": "Add images or other media for use on Wikipedia"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Main_Page",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:Search",
+          "text": "No link text",
+          "title": "Search Wikipedia [alt-shift-f]"
+        },
+        {
+          "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+          "text": "Donate",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Data+science",
+          "text": "Create account",
+          "title": "You are encouraged to create an account and log in; however, it is not mandatory"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Data+science",
+          "text": "Log in",
+          "title": "You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"
+        },
+        {
+          "url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Data+science",
+          "text": "No link text",
+          "title": "You are encouraged to create an account and log in; however, it is not mandatory"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Data+science",
+          "text": "No link text",
+          "title": "You're encouraged to log in; however, it's not mandatory. [alt-shift-o]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:MyContributions",
+          "text": "No link text",
+          "title": "A list of edits made from this IP address [alt-shift-y]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:MyTalk",
+          "text": "No link text",
+          "title": "Discussion about edits from this IP address [alt-shift-n]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "(Top)",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Foundations",
+          "text": "Foundations",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Etymology",
+          "text": "Etymology",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Early_usage",
+          "text": "Early usage",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Modern_usage",
+          "text": "Modern usage",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Data_science_and_data_analysis",
+          "text": "Data science and data analysis",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Cloud_computing_for_data_science",
+          "text": "Cloud computing for data science",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#Ethical_consideration_in_data_science",
+          "text": "Ethical consideration in data science",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#See_also",
+          "text": "See also",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#References",
+          "text": "References",
+          "title": ""
+        },
+        {
+          "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA",
+          "text": "No link text",
+          "title": "علم البيانات – Arabic"
+        },
+        {
+          "url": "https://az.wikipedia.org/wiki/Veril%C9%99nl%C9%99r_elmi",
+          "text": "No link text",
+          "title": "Verilənlər elmi – Azerbaijani"
+        },
+        {
+          "url": "https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8",
+          "text": "No link text",
+          "title": "উপাত্ত বিজ্ঞান – Bangla"
+        },
+        {
+          "url": "https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8%D1%82%D0%B5",
+          "text": "No link text",
+          "title": "Наука за данните – Bulgarian"
+        },
+        {
+          "url": "https://ca.wikipedia.org/wiki/Ci%C3%A8ncia_de_les_dades",
+          "text": "No link text",
+          "title": "Ciència de les dades – Catalan"
+        },
+        {
+          "url": "https://cs.wikipedia.org/wiki/Data_science",
+          "text": "No link text",
+          "title": "Data science – Czech"
+        },
+        {
+          "url": "https://de.wikipedia.org/wiki/Data_Science",
+          "text": "No link text",
+          "title": "Data Science – German"
+        },
+        {
+          "url": "https://et.wikipedia.org/wiki/Andmeteadus",
+          "text": "No link text",
+          "title": "Andmeteadus – Estonian"
+        },
+        {
+          "url": "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7_%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD",
+          "text": "No link text",
+          "title": "Επιστήμη δεδομένων – Greek"
+        },
+        {
+          "url": "https://es.wikipedia.org/wiki/Ciencia_de_datos",
+          "text": "No link text",
+          "title": "Ciencia de datos – Spanish"
+        },
+        {
+          "url": "https://eo.wikipedia.org/wiki/Datum-scienco",
+          "text": "No link text",
+          "title": "Datum-scienco – Esperanto"
+        },
+        {
+          "url": "https://eu.wikipedia.org/wiki/Datu_zientzia",
+          "text": "No link text",
+          "title": "Datu zientzia – Basque"
+        },
+        {
+          "url": "https://fa.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%AF%D8%A7%D8%AF%D9%87",
+          "text": "No link text",
+          "title": "علم داده – Persian"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es",
+          "text": "No link text",
+          "title": "Science des données – French"
+        },
+        {
+          "url": "https://gl.wikipedia.org/wiki/Ciencia_de_datos",
+          "text": "No link text",
+          "title": "Ciencia de datos – Galician"
+        },
+        {
+          "url": "https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4",
+          "text": "No link text",
+          "title": "데이터 사이언스 – Korean"
+        },
+        {
+          "url": "https://hy.wikipedia.org/wiki/%D5%8F%D5%BE%D5%B5%D5%A1%D5%AC%D5%B6%D5%A5%D6%80%D5%AB_%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6",
+          "text": "No link text",
+          "title": "Տվյալների գիտություն – Armenian"
+        },
+        {
+          "url": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%81%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A4%BE_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8",
+          "text": "No link text",
+          "title": "आँकड़ा विज्ञान – Hindi"
+        },
+        {
+          "url": "https://io.wikipedia.org/wiki/Cienco_di_datumi",
+          "text": "No link text",
+          "title": "Cienco di datumi – Ido"
+        },
+        {
+          "url": "https://id.wikipedia.org/wiki/Ilmu_data",
+          "text": "No link text",
+          "title": "Ilmu data – Indonesian"
+        },
+        {
+          "url": "https://zu.wikipedia.org/wiki/INzululwazi_yeMininingo",
+          "text": "No link text",
+          "title": "INzululwazi yeMininingo – Zulu"
+        },
+        {
+          "url": "https://it.wikipedia.org/wiki/Scienza_dei_dati",
+          "text": "No link text",
+          "title": "Scienza dei dati – Italian"
+        },
+        {
+          "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%93%D7%A2_%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D",
+          "text": "No link text",
+          "title": "מדע הנתונים – Hebrew"
+        },
+        {
+          "url": "https://kn.wikipedia.org/wiki/%E0%B2%A6%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%B6_%E0%B2%B5%E0%B2%BF%E0%B2%9C%E0%B3%8D%E0%B2%9E%E0%B2%BE%E0%B2%A8",
+          "text": "No link text",
+          "title": "ದತ್ತಾಂಶ ವಿಜ್ಞಾನ – Kannada"
+        },
+        {
+          "url": "https://kk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%BA%D1%82%D0%B5%D1%80_%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B_%D2%93%D1%8B%D0%BB%D1%8B%D0%BC",
+          "text": "No link text",
+          "title": "Деректер туралы ғылым – Kazakh"
+        },
+        {
+          "url": "https://lv.wikipedia.org/wiki/Datu_m%C4%81c%C4%ABba",
+          "text": "No link text",
+          "title": "Datu mācība – Latvian"
+        },
+        {
+          "url": "https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%86%D0%B8%D1%82%D0%B5",
+          "text": "No link text",
+          "title": "Наука за податоците – Macedonian"
+        },
+        {
+          "url": "https://ms.wikipedia.org/wiki/Sains_data",
+          "text": "No link text",
+          "title": "Sains data – Malay"
+        },
+        {
+          "url": "https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%81%E1%80%BB%E1%80%80%E1%80%BA%E1%80%A1%E1%80%9C%E1%80%80%E1%80%BA%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6%E1%80%95%E1%80%8A%E1%80%AC",
+          "text": "No link text",
+          "title": "အချက်အလက်သိပ္ပံပညာ – Burmese"
+        },
+        {
+          "url": "https://nl.wikipedia.org/wiki/Datawetenschap",
+          "text": "No link text",
+          "title": "Datawetenschap – Dutch"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9",
+          "text": "No link text",
+          "title": "データサイエンス – Japanese"
+        },
+        {
+          "url": "https://no.wikipedia.org/wiki/Datavitenskap",
+          "text": "No link text",
+          "title": "Datavitenskap – Norwegian Bokmål"
+        },
+        {
+          "url": "https://pa.wikipedia.org/wiki/%E0%A8%A1%E0%A8%BE%E0%A8%9F%E0%A8%BE_%E0%A8%B8%E0%A8%BE%E0%A8%87%E0%A9%B0%E0%A8%B8",
+          "text": "No link text",
+          "title": "ਡਾਟਾ ਸਾਇੰਸ – Punjabi"
+        },
+        {
+          "url": "https://pl.wikipedia.org/wiki/Danologia",
+          "text": "No link text",
+          "title": "Danologia – Polish"
+        },
+        {
+          "url": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia_de_dados",
+          "text": "No link text",
+          "title": "Ciência de dados – Portuguese"
+        },
+        {
+          "url": "https://qu.wikipedia.org/wiki/Willakuy_hamut%27ay",
+          "text": "No link text",
+          "title": "Willakuy hamut'ay – Quechua"
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BE_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85",
+          "text": "No link text",
+          "title": "Наука о данных – Russian"
+        },
+        {
+          "url": "https://sq.wikipedia.org/wiki/Shkenca_e_t%C3%AB_dh%C3%ABnave",
+          "text": "No link text",
+          "title": "Shkenca e të dhënave – Albanian"
+        },
+        {
+          "url": "https://simple.wikipedia.org/wiki/Data_science",
+          "text": "No link text",
+          "title": "Data science – Simple English"
+        },
+        {
+          "url": "https://sd.wikipedia.org/wiki/%DA%8A%D9%8A%D9%BD%D8%A7_%D8%B3%D8%A7%D8%A6%D9%86%D8%B3",
+          "text": "No link text",
+          "title": "ڊيٽا سائنس – Sindhi"
+        },
+        {
+          "url": "https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BE_%D0%BF%D0%BE%D0%B4%D0%B0%D1%86%D0%B8%D0%BC%D0%B0",
+          "text": "No link text",
+          "title": "Наука о подацима – Serbian"
+        },
+        {
+          "url": "https://fi.wikipedia.org/wiki/Datatiede",
+          "text": "No link text",
+          "title": "Datatiede – Finnish"
+        },
+        {
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D",
+          "text": "No link text",
+          "title": "தரவு அறிவியல் – Tamil"
+        },
+        {
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+          "text": "No link text",
+          "title": "วิทยาการข้อมูล – Thai"
+        },
+        {
+          "url": "https://tr.wikipedia.org/wiki/Veri_bilimi",
+          "text": "No link text",
+          "title": "Veri bilimi – Turkish"
+        },
+        {
+          "url": "https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE_%D0%B4%D0%B0%D0%BD%D1%96",
+          "text": "No link text",
+          "title": "Наука про дані – Ukrainian"
+        },
+        {
+          "url": "https://ur.wikipedia.org/wiki/%DA%88%DB%8C%D9%B9%D8%A7_%D8%B3%D8%A7%D8%A6%D9%86%D8%B3",
+          "text": "No link text",
+          "title": "ڈیٹا سائنس – Urdu"
+        },
+        {
+          "url": "https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_d%E1%BB%AF_li%E1%BB%87u",
+          "text": "No link text",
+          "title": "Khoa học dữ liệu – Vietnamese"
+        },
+        {
+          "url": "https://zh-yue.wikipedia.org/wiki/%E6%95%B8%E6%93%9A%E7%A7%91%E5%AD%B8",
+          "text": "No link text",
+          "title": "數據科學 – Cantonese"
+        },
+        {
+          "url": "https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6",
+          "text": "No link text",
+          "title": "数据科学 – Chinese"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2374463#sitelinks-wikipedia",
+          "text": "No link text",
+          "title": "Edit interlanguage links"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science",
+          "text": "Article",
+          "title": "View the content page [alt-shift-c]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Talk:Data_science",
+          "text": "Talk",
+          "title": "Discuss improvements to the content page [alt-shift-t]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science",
+          "text": "Read",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit",
+          "text": "Edit",
+          "title": "Edit this page [alt-shift-e]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=history",
+          "text": "View history",
+          "title": "Past revisions of this page [alt-shift-h]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit",
+          "text": "No link text",
+          "title": "Edit this page [alt-shift-e]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=history",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Data_science",
+          "text": "No link text",
+          "title": "List of all English Wikipedia pages containing links to this page [alt-shift-j]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Data_science",
+          "text": "No link text",
+          "title": "Recent changes in pages linked from this page [alt-shift-k]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+          "text": "No link text",
+          "title": "Upload files [alt-shift-u]"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&oldid=1290040748",
+          "text": "No link text",
+          "title": "Permanent link to this revision of this page"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=info",
+          "text": "No link text",
+          "title": "More information about this page"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Data_science&id=1290040748&wpFormIdentifier=titleform",
+          "text": "No link text",
+          "title": "Information on how to cite this page"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FData_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FData_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": "Expand all collapsible elements on the current page"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2374463#sitelinks-wikipedia",
+          "text": "No link text",
+          "title": "Edit interlanguage links"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Data_science&action=show-download-screen",
+          "text": "No link text",
+          "title": "Download this page as a PDF file"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&printable=yes",
+          "text": "No link text",
+          "title": "Printable version of this page [alt-shift-p]"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Category:Data_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikibooks.org/wiki/Data_Science:_An_Introduction",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikiversity.org/wiki/Data_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wiktionary.org/wiki/data_science",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q2374463",
+          "text": "No link text",
+          "title": "Structured data on this page hosted by Wikidata [alt-shift-g]"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Information_science",
+          "text": "information science",
+          "title": "Information science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_science",
+          "text": "computer science",
+          "title": "Computer science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/File:PIA23792-1600x1200(1).jpg",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Comet_NEOWISE",
+          "text": "Comet NEOWISE",
+          "title": "Comet NEOWISE"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Astronomical_survey",
+          "text": "astronomical survey",
+          "title": "Astronomical survey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Space_telescope",
+          "text": "space telescope",
+          "title": "Space telescope"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wide-field_Infrared_Survey_Explorer",
+          "text": "Wide-field Infrared Survey Explorer",
+          "title": "Wide-field Infrared Survey Explorer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Interdisciplinary",
+          "text": "interdisciplinary",
+          "title": "Interdisciplinary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-1",
+          "text": "[1]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Statistics",
+          "text": "statistics",
+          "title": "Statistics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scientific_computing",
+          "text": "scientific computing",
+          "title": "Scientific computing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scientific_method",
+          "text": "scientific methods",
+          "title": "Scientific method"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scientific_visualization",
+          "text": "scientific visualization",
+          "title": "Scientific visualization"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Algorithm",
+          "text": "algorithms",
+          "title": "Algorithm"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knowledge",
+          "text": "knowledge",
+          "title": "Knowledge"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_model",
+          "text": "structured",
+          "title": "Data model"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Unstructured_data",
+          "text": "unstructured data",
+          "title": "Unstructured data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-2",
+          "text": "[2]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-3",
+          "text": "[3]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-4",
+          "text": "[4]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Statistics",
+          "text": "statistics",
+          "title": "Statistics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_analysis",
+          "text": "data analysis",
+          "title": "Data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Informatics",
+          "text": "informatics",
+          "title": "Informatics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Scientific_method",
+          "text": "methods",
+          "title": "Scientific method"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Phenomena",
+          "text": "phenomena",
+          "title": "Phenomena"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data",
+          "text": "data",
+          "title": "Data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-5",
+          "text": "[5]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mathematics",
+          "text": "mathematics",
+          "title": "Mathematics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_science",
+          "text": "computer science",
+          "title": "Computer science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Information_science",
+          "text": "information science",
+          "title": "Information science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Domain_knowledge",
+          "text": "domain knowledge",
+          "title": "Domain knowledge"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:2-6",
+          "text": "[6]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_science",
+          "text": "computer science",
+          "title": "Computer science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Turing_Award",
+          "text": "Turing Award",
+          "title": "Turing Award"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)",
+          "text": "Jim Gray",
+          "title": "Jim Gray (computer scientist)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Empirical_research",
+          "text": "empirical",
+          "title": "Empirical research"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Basic_research",
+          "text": "theoretical",
+          "title": "Basic research"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computational_science",
+          "text": "computational",
+          "title": "Computational science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Information_technology",
+          "text": "information technology",
+          "title": "Information technology"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Information_explosion",
+          "text": "data deluge",
+          "title": "Information explosion"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-TansleyTolle2009-7",
+          "text": "[7]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-BellHey2009-8",
+          "text": "[8]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-9",
+          "text": "[9]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=1",
+          "text": "edit",
+          "title": "Edit section: Foundations"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Interdisciplinarity",
+          "text": "interdisciplinary",
+          "title": "Interdisciplinarity"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Academic_discipline",
+          "text": "field",
+          "title": "Academic discipline"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-10",
+          "text": "[10]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Knowledge_extraction",
+          "text": "extracting knowledge",
+          "title": "Knowledge extraction"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_data",
+          "text": "large",
+          "title": "Big data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_set",
+          "text": "data sets",
+          "title": "Data set"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Analysis",
+          "text": "analyzing",
+          "title": "Analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_visualization",
+          "text": "data visualization",
+          "title": "Data visualization"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Graphic_design",
+          "text": "graphic design",
+          "title": "Graphic design"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Communication",
+          "text": "communication",
+          "title": "Communication"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Business",
+          "text": "business",
+          "title": "Business"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-11",
+          "text": "[11]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Vasant_Dhar",
+          "text": "Vasant Dhar",
+          "title": "Vasant Dhar"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-12",
+          "text": "[12]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Gelman",
+          "text": "Andrew Gelman",
+          "title": "Andrew Gelman"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Columbia_University",
+          "text": "Columbia University",
+          "title": "Columbia University"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-13",
+          "text": "[13]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Donoho",
+          "text": "David Donoho",
+          "title": "David Donoho"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:7-14",
+          "text": "[14]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=2",
+          "text": "edit",
+          "title": "Edit section: Etymology"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=3",
+          "text": "edit",
+          "title": "Edit section: Early usage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Tukey",
+          "text": "John Tukey",
+          "title": "John Tukey"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_analysis",
+          "text": "data analysis",
+          "title": "Data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:7-14",
+          "text": "[14]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/C._F._Jeff_Wu",
+          "text": "C. F. Jeff Wu",
+          "title": "C. F. Jeff Wu"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-15",
+          "text": "[15]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Montpellier_2_University",
+          "text": "University of Montpellier  II",
+          "title": "Montpellier 2 University"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-16",
+          "text": "[16]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-Murtagh_2018_14-17",
+          "text": "[17]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Naur",
+          "text": "Peter Naur",
+          "title": "Peter Naur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:2-6",
+          "text": "[6]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:2-6",
+          "text": "[6]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/C._F._Jeff_Wu",
+          "text": "C. F. Jeff Wu",
+          "title": "C. F. Jeff Wu"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-18",
+          "text": "[18]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-Murtagh_2018_14-17",
+          "text": "[17]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=4",
+          "text": "edit",
+          "title": "Edit section: Modern usage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_H._Davenport",
+          "text": "Thomas H. Davenport",
+          "title": "Thomas H. Davenport"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/DJ_Patil",
+          "text": "DJ Patil",
+          "title": "DJ Patil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-19",
+          "text": "[19]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Times",
+          "text": "New York Times",
+          "title": "New York Times"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-20",
+          "text": "[20]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Boston_Globe",
+          "text": "Boston Globe",
+          "title": "Boston Globe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-21",
+          "text": "[21]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-22",
+          "text": "[22]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/William_S._Cleveland",
+          "text": "William S. Cleveland",
+          "title": "William S. Cleveland"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-23",
+          "text": "[23]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Statistical_Association",
+          "text": "American Statistical Association",
+          "title": "American Statistical Association"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-24",
+          "text": "[24]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/DJ_Patil",
+          "text": "DJ Patil",
+          "title": "DJ Patil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeff_Hammerbacher",
+          "text": "Jeff Hammerbacher",
+          "title": "Jeff Hammerbacher"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-25",
+          "text": "[25]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Science_Board",
+          "text": "National Science Board",
+          "title": "National Science Board"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_collection",
+          "text": "data collection",
+          "title": "Data collection"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-26",
+          "text": "[26]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=5",
+          "text": "edit",
+          "title": "Edit section: Data science and data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/File:EDA_example_-_Always_plot_your_data.jpg",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Exploratory_data_analysis",
+          "text": "exploratory data analysis",
+          "title": "Exploratory data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Datasaurus_dozen",
+          "text": "Datasaurus dozen",
+          "title": "Datasaurus dozen"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/File:Data_Science.png",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Computer_science",
+          "text": "computer science",
+          "title": "Computer science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Domain_expertise",
+          "text": "domain expertise",
+          "title": "Domain expertise"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_cleaning",
+          "text": "data cleaning",
+          "title": "Data cleaning"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_visualization",
+          "text": "data visualization",
+          "title": "Data visualization"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Variable_(research)",
+          "text": "variables",
+          "title": "Variable (research)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_analyst",
+          "text": "Data analysts",
+          "title": "Data analyst"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:8-27",
+          "text": "[27]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Unstructured_data",
+          "text": "unstructured data",
+          "title": "Unstructured data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Machine_learning",
+          "text": "machine learning",
+          "title": "Machine learning"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Statistical_analysis",
+          "text": "statistical analysis",
+          "title": "Statistical analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_preprocessing",
+          "text": "data preprocessing",
+          "title": "Data preprocessing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Supervised_learning",
+          "text": "supervised learning",
+          "title": "Supervised learning"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:9-28",
+          "text": "[28]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:10-29",
+          "text": "[29]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=6",
+          "text": "edit",
+          "title": "Edit section: Cloud computing for data science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/File:Cloud_computing_in_enabling_data_science_at_scale.jpg",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Personal_computer",
+          "text": "personal computers",
+          "title": "Personal computer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Laptop",
+          "text": "laptops",
+          "title": "Laptop"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Smartphone",
+          "text": "smart phones",
+          "title": "Smartphone"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_data",
+          "text": "big data",
+          "title": "Big data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cloud_computing",
+          "text": "Cloud computing",
+          "title": "Cloud computing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_storage",
+          "text": "storage",
+          "title": "Data storage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-30",
+          "text": "[30]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_data",
+          "text": "big data",
+          "title": "Big data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:0-31",
+          "text": "[31]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:3-32",
+          "text": "[32]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=7",
+          "text": "edit",
+          "title": "Edit section: Ethical consideration in data science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:4-33",
+          "text": "[33]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-:11-34",
+          "text": "[34]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-35",
+          "text": "[35]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_note-36",
+          "text": "[36]",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=8",
+          "text": "edit",
+          "title": "Edit section: See also"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+          "text": "Python (programming language)",
+          "title": "Python (programming language)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/R_(programming_language)",
+          "text": "R (programming language)",
+          "title": "R (programming language)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_engineering",
+          "text": "Data engineering",
+          "title": "Data engineering"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_data",
+          "text": "Big data",
+          "title": "Big data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Machine_learning",
+          "text": "Machine learning",
+          "title": "Machine learning"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bioinformatics",
+          "text": "Bioinformatics",
+          "title": "Bioinformatics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Astroinformatics",
+          "text": "Astroinformatics",
+          "title": "Astroinformatics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Topological_data_analysis",
+          "text": "Topological data analysis",
+          "title": "Topological data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#Data_science",
+          "text": "List of open-source data science software",
+          "title": "List of free and open-source software packages"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&action=edit&section=9",
+          "text": "edit",
+          "title": "Edit section: References"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-1",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://doi.org/10.1080%2F10618600.2017.1384734",
+          "text": "\"50 Years of Data Science\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Journal_of_Computational_and_Graphical_Statistics",
+          "text": "Journal of Computational and Graphical Statistics",
+          "title": "Journal of Computational and Graphical Statistics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1080%2F10618600.2017.1384734",
+          "text": "10.1080/10618600.2017.1384734",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+          "text": "S2CID",
+          "title": "S2CID (identifier)"
+        },
+        {
+          "url": "https://api.semanticscholar.org/CorpusID:114558008",
+          "text": "114558008",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-2",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "http://cacm.acm.org/magazines/2013/12/169933-data-science-and-prediction/fulltext",
+          "text": "\"Data science and prediction\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F2500499",
+          "text": "10.1145/2500499",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+          "text": "S2CID",
+          "title": "S2CID (identifier)"
+        },
+        {
+          "url": "https://api.semanticscholar.org/CorpusID:6107147",
+          "text": "6107147",
+          "title": ""
+        },
+        {
+          "url": "https://web.archive.org/web/20141109113411/http://cacm.acm.org/magazines/2013/12/169933-data-science-and-prediction/fulltext",
+          "text": "Archived",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-3",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://dstf.acm.org/DSTF_Final_Report.pdf",
+          "text": "Computing Competencies for Undergraduate Data Science Curricula",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-4",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F3575663",
+          "text": "\"What is Data Science?\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F3575663",
+          "text": "10.1145/3575663",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/0001-0782",
+          "text": "0001-0782",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-5",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.springer.com/book/9784431702085",
+          "text": "\"What is Data Science ? Fundamental Concepts and a Heuristic Example\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1007%2F978-4-431-65950-1_3",
+          "text": "10.1007/978-4-431-65950-1_3",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:BookSources/9784431702085",
+          "text": "9784431702085",
+          "title": "Special:BookSources/9784431702085"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:2_6-0",
+          "text": "a",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:2_6-1",
+          "text": "b",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:2_6-2",
+          "text": "c",
+          "title": ""
+        },
+        {
+          "url": "https://doi.org/10.1145%2F3076253",
+          "text": "\"Data Science: A Comprehensive Overview\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ArXiv_(identifier)",
+          "text": "arXiv",
+          "title": "ArXiv (identifier)"
+        },
+        {
+          "url": "https://arxiv.org/abs/2007.03606",
+          "text": "2007.03606",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F3076253",
+          "text": "10.1145/3076253",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/0360-0300",
+          "text": "0360-0300",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+          "text": "S2CID",
+          "title": "S2CID (identifier)"
+        },
+        {
+          "url": "https://api.semanticscholar.org/CorpusID:207595944",
+          "text": "207595944",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-TansleyTolle2009_7-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://books.google.com/books?id=oGs_AQAAIAAJ",
+          "text": "The Fourth Paradigm: Data-intensive Scientific Discovery",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-9825442-0-4",
+          "text": "978-0-9825442-0-4",
+          "title": "Special:BookSources/978-0-9825442-0-4"
+        },
+        {
+          "url": "https://web.archive.org/web/20170320193019/https://books.google.com/books?id=oGs_AQAAIAAJ",
+          "text": "Archived",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-BellHey2009_8-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1126%2Fscience.1170411",
+          "text": "10.1126/science.1170411",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/0036-8075",
+          "text": "0036-8075",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+          "text": "PMID",
+          "title": "PMID (identifier)"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19265007",
+          "text": "19265007",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+          "text": "S2CID",
+          "title": "S2CID (identifier)"
+        },
+        {
+          "url": "https://api.semanticscholar.org/CorpusID:9743327",
+          "text": "9743327",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-9",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/",
+          "text": "\"Data Scientist: The Sexiest Job of the 21st Century\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harvard_Business_Review",
+          "text": "Harvard Business Review",
+          "title": "Harvard Business Review"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+          "text": "PMID",
+          "title": "PMID (identifier)"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23074866",
+          "text": "23074866",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-10",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://doi.org/10.3390%2Fmake1010015",
+          "text": "\"Defining data science by a data-driven quantification of the community\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.3390%2Fmake1010015",
+          "text": "10.3390/make1010015",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-11",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.oreilly.com/library/view/doing-data-science/9781449363871/ch01.html",
+          "text": "\"1. Introduction: What Is Data Science?\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-12",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "http://archive.nyu.edu/handle/2451/31553",
+          "text": "\"Data science and prediction\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F2500499",
+          "text": "10.1145/2500499",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+          "text": "S2CID",
+          "title": "S2CID (identifier)"
+        },
+        {
+          "url": "https://api.semanticscholar.org/CorpusID:6107147",
+          "text": "6107147",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-13",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://statmodeling.stat.columbia.edu/2013/11/14/statistics-least-important-part-data-science/",
+          "text": "\"Statistics is the least important part of data science « Statistical Modeling, Causal Inference, and Social Science\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:7_14-0",
+          "text": "a",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:7_14-1",
+          "text": "b",
+          "title": ""
+        },
+        {
+          "url": "http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf",
+          "text": "\"50 years of Data Science\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-15",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www2.isye.gatech.edu/~jeffwu/publications/fazhan.pdf",
+          "text": "\"Future directions of statistical research in China: a historical perspective\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Application_of_Statistics_and_Management&action=edit&redlink=1",
+          "text": "Application of Statistics and Management",
+          "title": "Application of Statistics and Management (page does not exist)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-16",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:BookSources/0-12-241770-4",
+          "text": "0-12-241770-4",
+          "title": "Special:BookSources/0-12-241770-4"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+          "text": "OCLC",
+          "title": "OCLC (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/oclc/489990740",
+          "text": "489990740",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-Murtagh_2018_14_17-0",
+          "text": "a",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-Murtagh_2018_14_17-1",
+          "text": "b",
+          "title": ""
+        },
+        {
+          "url": "https://doi.org/10.3390%2Fbdcc2020014",
+          "text": "\"The Development of Data Science: Implications for Education, Employment, Research, and the Data Revolution for Sustainable Development\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.3390%2Fbdcc2020014",
+          "text": "10.3390/bdcc2020014",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-18",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "http://www2.isye.gatech.edu/~jeffwu/presentations/datascience.pdf",
+          "text": "\"Statistics=Data Science?\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-19",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century",
+          "text": "\"Data Scientist: The Sexiest Job of the 21st Century\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harvard_Business_Review",
+          "text": "Harvard Business Review",
+          "title": "Harvard Business Review"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-20",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.nytimes.com/2013/04/14/education/edlife/universities-offer-courses-in-a-hot-new-field-data-science.html",
+          "text": "\"Data Science: The Numbers of Our Lives\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_Times",
+          "text": "New York Times",
+          "title": "New York Times"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_York_City",
+          "text": "New York City",
+          "title": "New York City"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-21",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.bostonglobe.com/business/2015/11/11/behind-scenes-sexiest-job-century/Kc1cvXIu31DfHhVmyRQeIJ/story.html",
+          "text": "\"Behind the scenes of the 'sexiest job of the 21st century'\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Boston_Globe",
+          "text": "Boston Globe",
+          "title": "Boston Globe"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Boston",
+          "text": "Boston",
+          "title": "Boston"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-22",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century",
+          "text": "\"Is Data Scientist Still the Sexiest Job of the 21st Century?\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harvard_Business_Review",
+          "text": "Harvard Business Review",
+          "title": "Harvard Business Review"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-23",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.stat.purdue.edu/~wsc/",
+          "text": "\"William S. Cleveland\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-24",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://magazine.amstat.org/blog/2016/06/01/datascience-2/",
+          "text": "\"ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Statistical_Association",
+          "text": "American Statistical Association",
+          "title": "American Statistical Association"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-25",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century",
+          "text": "\"Data Scientist: The Sexiest Job of the 21st Century\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/0017-8012",
+          "text": "0017-8012",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-26",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.nsf.gov/pubs/2005/nsb0540/",
+          "text": "\"US NSF – NSB-05-40, Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:8_27-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Gareth_M._James",
+          "text": "James, Gareth",
+          "title": "Gareth M. James"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniela_Witten",
+          "text": "Witten, Daniela",
+          "title": "Daniela Witten"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Trevor_Hastie",
+          "text": "Hastie, Trevor",
+          "title": "Trevor Hastie"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Tibshirani",
+          "text": "Tibshirani, Robert",
+          "title": "Robert Tibshirani"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:9_28-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/256438799",
+          "text": "\"Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:10_29-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques",
+          "text": "Data Mining: Concepts and Techniques",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:BookSources/9780123814791",
+          "text": "9780123814791",
+          "title": "Special:BookSources/9780123814791"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-30",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S0306437914001288",
+          "text": "\"The rise of \"big data\" on cloud computing: Review and open research issues\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1016%2Fj.is.2014.07.006",
+          "text": "10.1016/j.is.2014.07.006",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:0_31-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://doi.org/10.1186%2Fs13634-016-0355-x",
+          "text": "\"A survey of machine learning for big data processing\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1186%2Fs13634-016-0355-x",
+          "text": "10.1186/s13634-016-0355-x",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/1687-6180",
+          "text": "1687-6180",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:3_32-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://dl.acm.org/doi/10.1145/2723372.2742797",
+          "text": "\"Spark SQL: Relational Data Processing in Spark\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1145%2F2723372.2742797",
+          "text": "10.1145/2723372.2742797",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4503-2758-9",
+          "text": "978-1-4503-2758-9",
+          "title": "Special:BookSources/978-1-4503-2758-9"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:4_33-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Luciano_Floridi",
+          "text": "Floridi, Luciano",
+          "title": "Luciano Floridi"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mariarosaria_Taddeo",
+          "text": "Taddeo, Mariarosaria",
+          "title": "Mariarosaria Taddeo"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5124072",
+          "text": "\"What is data ethics?\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+          "text": "Bibcode",
+          "title": "Bibcode (identifier)"
+        },
+        {
+          "url": "https://ui.adsabs.harvard.edu/abs/2016RSPTA.37460360F",
+          "text": "2016RSPTA.37460360F",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1098%2Frsta.2016.0360",
+          "text": "10.1098/rsta.2016.0360",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/1364-503X",
+          "text": "1364-503X",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+          "text": "PMC",
+          "title": "PMC (identifier)"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5124072",
+          "text": "5124072",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+          "text": "PMID",
+          "title": "PMID (identifier)"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28336805",
+          "text": "28336805",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-:11_34-0",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "http://link.springer.com/10.1007/s11948-015-9652-2",
+          "text": "\"The Ethics of Big Data: Current and Foreseeable Issues in Biomedical Contexts\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1007%2Fs11948-015-9652-2",
+          "text": "10.1007/s11948-015-9652-2",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/1353-3452",
+          "text": "1353-3452",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+          "text": "PMID",
+          "title": "PMID (identifier)"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26002496",
+          "text": "26002496",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-35",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://lawcat.berkeley.edu/record/1127463",
+          "text": "\"Big Data's Disparate Impact\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.15779%2FZ38BG31",
+          "text": "10.15779/Z38BG31",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#cite_ref-36",
+          "text": "^",
+          "title": "Jump up"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joanna_Bryson",
+          "text": "Bryson, Joanna J.",
+          "title": "Joanna Bryson"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arvind_Narayanan",
+          "text": "Narayanan, Arvind",
+          "title": "Arvind Narayanan"
+        },
+        {
+          "url": "https://www.science.org/doi/10.1126/science.aal4230",
+          "text": "\"Semantics derived automatically from language corpora contain human-like biases\"",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ArXiv_(identifier)",
+          "text": "arXiv",
+          "title": "ArXiv (identifier)"
+        },
+        {
+          "url": "https://arxiv.org/abs/1608.07187",
+          "text": "1608.07187",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+          "text": "Bibcode",
+          "title": "Bibcode (identifier)"
+        },
+        {
+          "url": "https://ui.adsabs.harvard.edu/abs/2017Sci...356..183C",
+          "text": "2017Sci...356..183C",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+          "text": "doi",
+          "title": "Doi (identifier)"
+        },
+        {
+          "url": "https://doi.org/10.1126%2Fscience.aal4230",
+          "text": "10.1126/science.aal4230",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+          "text": "ISSN",
+          "title": "ISSN (identifier)"
+        },
+        {
+          "url": "https://search.worldcat.org/issn/0036-8075",
+          "text": "0036-8075",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Template:Data",
+          "text": "v",
+          "title": "Template:Data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Template_talk:Data",
+          "text": "t",
+          "title": "Template talk:Data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Data",
+          "text": "e",
+          "title": "Special:EditPage/Template:Data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data",
+          "text": "Data",
+          "title": "Data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_acquisition",
+          "text": "Acquisition",
+          "title": "Data acquisition"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_augmentation",
+          "text": "Augmentation",
+          "title": "Data augmentation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_analysis",
+          "text": "Analysis",
+          "title": "Data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_anonymization",
+          "text": "Anonymization",
+          "title": "Data anonymization"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_archaeology",
+          "text": "Archaeology",
+          "title": "Data archaeology"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_data",
+          "text": "Big",
+          "title": "Big data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_cleansing",
+          "text": "Cleansing",
+          "title": "Data cleansing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_collection",
+          "text": "Collection",
+          "title": "Data collection"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_compression",
+          "text": "Compression",
+          "title": "Data compression"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_corruption",
+          "text": "Corruption",
+          "title": "Data corruption"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_curation",
+          "text": "Curation",
+          "title": "Data curation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_deduplication",
+          "text": "Deduplication",
+          "title": "Data deduplication"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_degradation",
+          "text": "Degradation",
+          "title": "Data degradation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_de-identification",
+          "text": "De-identification",
+          "title": "Data de-identification"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_ecosystem",
+          "text": "Ecosystem",
+          "title": "Data ecosystem"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_editing",
+          "text": "Editing",
+          "title": "Data editing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_engineering",
+          "text": "Engineering",
+          "title": "Data engineering"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_erasure",
+          "text": "Erasure",
+          "title": "Data erasure"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Extract,_transform,_load",
+          "text": "ETL",
+          "title": "Extract, transform, load"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Extract,_load,_transform",
+          "text": "ELT",
+          "title": "Extract, load, transform"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_extraction",
+          "text": "Extract",
+          "title": "Data extraction"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_transformation",
+          "text": "Transform",
+          "title": "Data transformation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_loading",
+          "text": "Load",
+          "title": "Data loading"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_ethics",
+          "text": "Ethics",
+          "title": "Data ethics"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_exhaust",
+          "text": "Exhaust",
+          "title": "Data exhaust"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_exploration",
+          "text": "Exploration",
+          "title": "Data exploration"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_farming",
+          "text": "Farming",
+          "title": "Data farming"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_format_management",
+          "text": "Format management",
+          "title": "Data format management"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_fusion",
+          "text": "Fusion",
+          "title": "Data fusion"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_governance",
+          "text": "Governance",
+          "title": "Data governance"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_cooperative",
+          "text": "Cooperatives",
+          "title": "Data cooperative"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_infrastructure",
+          "text": "Infrastructure",
+          "title": "Data infrastructure"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_integration",
+          "text": "Integration",
+          "title": "Data integration"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_integrity",
+          "text": "Integrity",
+          "title": "Data integrity"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_library",
+          "text": "Library",
+          "title": "Data library"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_lineage",
+          "text": "Lineage",
+          "title": "Data lineage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_loss",
+          "text": "Loss",
+          "title": "Data loss"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_management",
+          "text": "Management",
+          "title": "Data management"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Metadata",
+          "text": "Meta",
+          "title": "Metadata"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_migration",
+          "text": "Migration",
+          "title": "Data migration"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_mining",
+          "text": "Mining",
+          "title": "Data mining"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_philanthropy",
+          "text": "Philanthropy",
+          "title": "Data philanthropy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_pre-processing",
+          "text": "Pre-processing",
+          "title": "Data pre-processing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_preservation",
+          "text": "Preservation",
+          "title": "Data preservation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_processing",
+          "text": "Processing",
+          "title": "Data processing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Information_privacy",
+          "text": "Protection (privacy)",
+          "title": "Information privacy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_publishing",
+          "text": "Publishing",
+          "title": "Data publishing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Open_data",
+          "text": "Open data",
+          "title": "Open data"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_recovery",
+          "text": "Recovery",
+          "title": "Data recovery"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_reduction",
+          "text": "Reduction",
+          "title": "Data reduction"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_redundancy",
+          "text": "Redundancy",
+          "title": "Data redundancy"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_re-identification",
+          "text": "Re-identification",
+          "title": "Data re-identification"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_remanence",
+          "text": "Remanence",
+          "title": "Data remanence"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_rescue",
+          "text": "Rescue",
+          "title": "Data rescue"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_retention",
+          "text": "Retention",
+          "title": "Data retention"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_quality",
+          "text": "Quality",
+          "title": "Data quality"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_scraping",
+          "text": "Scraping",
+          "title": "Data scraping"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_scrubbing",
+          "text": "Scrubbing",
+          "title": "Data scrubbing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_security",
+          "text": "Security",
+          "title": "Data security"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_sharing",
+          "text": "Sharing",
+          "title": "Data sharing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_steward",
+          "text": "Stewardship",
+          "title": "Data steward"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_storage",
+          "text": "Storage",
+          "title": "Data storage"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_structure",
+          "text": "Structure",
+          "title": "Data structure"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_synchronization",
+          "text": "Synchronization",
+          "title": "Data synchronization"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Topological_data_analysis",
+          "text": "Topological data analysis",
+          "title": "Topological data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_type",
+          "text": "Type",
+          "title": "Data type"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_validation",
+          "text": "Validation",
+          "title": "Data validation"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_warehouse",
+          "text": "Warehouse",
+          "title": "Data warehouse"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_wrangling",
+          "text": "Wrangling/munging",
+          "title": "Data wrangling"
+        },
+        {
+          "url": "https://en.wikipedia.org/w/index.php?title=Data_science&oldid=1290040748",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Help:Category",
+          "text": "Categories",
+          "title": "Help:Category"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Information_science",
+          "text": "Information science",
+          "title": "Category:Information science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Computer_occupations",
+          "text": "Computer occupations",
+          "title": "Category:Computer occupations"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Computational_fields_of_study",
+          "text": "Computational fields of study",
+          "title": "Category:Computational fields of study"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Data_analysis",
+          "text": "Data analysis",
+          "title": "Category:Data analysis"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Data_science",
+          "text": "Data science",
+          "title": "Category:Data science"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+          "text": "No link text",
+          "title": "Category:Articles with short description"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+          "text": "No link text",
+          "title": "Category:Short description is different from Wikidata"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2023",
+          "text": "No link text",
+          "title": "Category:Use dmy dates from August 2023"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+          "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+          "title": "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License"
+        },
+        {
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+          "text": "Terms of Use",
+          "title": "foundation:Special:MyLanguage/Policy:Terms of Use"
+        },
+        {
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "text": "Privacy Policy",
+          "title": "foundation:Special:MyLanguage/Policy:Privacy policy"
+        },
+        {
+          "url": "https://wikimediafoundation.org/",
+          "text": "Wikimedia Foundation, Inc.",
+          "title": ""
+        },
+        {
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "text": "Privacy policy",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "text": "About Wikipedia",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+          "text": "Disclaimers",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "text": "Contact Wikipedia",
+          "title": ""
+        },
+        {
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+          "text": "Code of Conduct",
+          "title": ""
+        },
+        {
+          "url": "https://developer.wikimedia.org/",
+          "text": "Developers",
+          "title": ""
+        },
+        {
+          "url": "https://stats.wikimedia.org/#/en.wikipedia.org",
+          "text": "Statistics",
+          "title": ""
+        },
+        {
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+          "text": "Cookie statement",
+          "title": ""
+        },
+        {
+          "url": "https://en.m.wikipedia.org/w/index.php?title=Data_science&mobileaction=toggle_view_mobile",
+          "text": "Mobile view",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://www.wikimedia.org/",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://www.mediawiki.org/",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science#",
+          "text": "No link text",
+          "title": ""
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Data_science?action=edit",
+          "text": "No link text",
+          "title": ""
+        }
+      ],
+      "status": "success",
+      "error": null
+    }
+  }
+}
